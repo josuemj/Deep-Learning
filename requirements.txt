@@ -1,0 +1,10 @@
+scikit-image
+scikit-learn 
+pandas
+pytorch
+numpy
+matplotlib
+scipy
+Pillow
+jupyter
+seaborn
