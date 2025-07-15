@@ -1,3 +1,6 @@
+# Readme de entornos y necesidades para correr notebooks
+
+## PARA LABORATORIO 1:
 1. Crear entorno virtual:
    ```bash
    python -m venv deep-env
