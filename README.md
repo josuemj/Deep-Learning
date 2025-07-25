@@ -30,3 +30,8 @@
    ```bash
     pip install -U --force-reinstall --no-cache https://github.com/johnhw/jhwutils/zipball/master
     ```
+
+6. Para el laboratorop 3 con entorno  activado
+    ```bash
+    pip install -U --force-reinstall --no-cache https://github.com/AlbertS789/lautils/zipball/master
+    ```
