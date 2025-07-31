@@ -10,3 +10,5 @@ Pillow
 jupyter
 seaborn
 torchsummary
+nltk
+datasets
