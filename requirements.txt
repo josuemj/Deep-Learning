@@ -12,3 +12,6 @@ seaborn
 torchsummary
 nltk
 datasets
+gymnasium
+Box2D
+pygame
